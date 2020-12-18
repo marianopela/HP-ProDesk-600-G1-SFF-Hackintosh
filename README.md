@@ -1,3 +1,5 @@
+# If my work helped you, consider [buying me a coffee](paypal.me/marianopela)
+
 # HP-ProDesk-600-G1-SFF-Hackintosh
 
 | Specifications | Details |
